@@ -48,5 +48,5 @@ Open [http://localhost:3000](http://localhost:3000). To check the production bui
 
 ## Deployment
 
-Deployment URL: **Not deployed yet.**
+Deployment URL: **https://next-js-learning-assignment.vercel.app/**
 
